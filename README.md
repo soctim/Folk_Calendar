@@ -2,7 +2,7 @@
 ---
 
 <div align="center">
-    <h3>Folk Calendar | Народный календарь</h3>
+    <h3>ꙮ Folk Calendar | Народный календарь ꙮ</h3>
     <img src="https://github.com/soctim/Folk_Calendar/blob/master/assets/gts/icon.png?raw=true" />
 </div>
 
